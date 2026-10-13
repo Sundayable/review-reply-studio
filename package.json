@@ -1,0 +1,9 @@
+{
+  "name": "review-reply-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A local-first English and Korean review response workbench, built with Codex Astra.",
+  "scripts": {"test": "node --test tests/*.test.js", "build": "node scripts/build.mjs", "dev": "node scripts/serve.mjs", "start": "node scripts/serve.mjs"},
+  "engines": {"node": ">=20"}
+}
