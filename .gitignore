@@ -8,3 +8,4 @@ docs/qa/*.png
 AGENTS.md
 CLAUDE.md
 HANDOFF.md
+.vercel

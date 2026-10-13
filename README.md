@@ -2,7 +2,7 @@
 
 A useful little tool for small business owners: turn a customer review into two editable replies in English or Korean. Built with **Codex Astra**, directed by Dan Jeong, October 12, 2026.
 
-- **Live:** https://review-reply-studio.vercel.app
+- **Live:** https://review-reply-studio-seven.vercel.app
 - **Dan's portfolio:** https://proof.getsundayable.com/public/dan-jeong/
 - **Build log:** [BUILD_LOG.md](BUILD_LOG.md)
 
