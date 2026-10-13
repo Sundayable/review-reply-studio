@@ -11,7 +11,9 @@ Dan asked Codex to build a genuinely useful public demo for small business owner
 
 **Live app:** https://review-reply-studio-seven.vercel.app/
 
-**Production deployment:** `dpl_7B3cdHW1DrPufZXcMkVPPTbzFScZ`, Sundayable Vercel team. App source revision: `13aa1b1`. The deployment's generated team/branch alias requires login, so the public project domain above is used throughout the application materials.
+**Initial production deployment:** `dpl_7B3cdHW1DrPufZXcMkVPPTbzFScZ`, Sundayable Vercel team, source revision `13aa1b1`. The generated team/branch alias requires login, so the public project domain above is used throughout the application materials.
+
+**Final link update:** source revision `8b15706`, deployed as `dpl_By7UVs7MZNsPiDe4TAAM7T5wm5n1`. The portfolio uses the clean public route https://proof.getsundayable.com/dan-jeong/ . Tests and build passed again after the link update.
 
 **Codex session reference:** `01a1328f-9415-75a1-8093-23db2f93b5e0`. The session itself is kept private; this log and the actual commits provide the public build record.
 
