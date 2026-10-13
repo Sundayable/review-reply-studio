@@ -1,0 +1,7 @@
+AGENTS.md
+CLAUDE.md
+HANDOFF.md
+.git/
+.paseo/
+docs/qa/
+.env*

@@ -5,4 +5,6 @@ dist/
 .DS_Store
 docs/qa/*.png
 .paseo/
-
+AGENTS.md
+CLAUDE.md
+HANDOFF.md
