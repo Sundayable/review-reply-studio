@@ -3,7 +3,7 @@
 A useful little tool for small business owners: turn a customer review into two editable replies in English or Korean. Built with **Codex Astra**, directed by Dan Jeong, October 12, 2026.
 
 - **Live:** https://review-reply-studio-seven.vercel.app
-- **Dan's portfolio:** https://proof.getsundayable.com/public/dan-jeong/
+- **Dan's portfolio:** https://proof.getsundayable.com/dan-jeong/
 - **Build log:** [BUILD_LOG.md](BUILD_LOG.md)
 
 ## What it does
@@ -39,7 +39,7 @@ Open `http://127.0.0.1:4173` in your browser. Build output is in `dist/`. Deploy
 - Self-hosted fonts; keyboard controls, visible focus, reduced-motion support, and responsive layout.
 - Sundayable's current Paper/Card/Ink brand, Gabarito and Figtree typography.
 
-The [portfolio page](https://proof.getsundayable.com/public/dan-jeong/) was also built with Codex Astra during the same work session. Event counts there distinguish registrations from Luma's public “Went” labels; the intro-video slot remains pending until Dan provides the recording.
+The [portfolio page](https://proof.getsundayable.com/dan-jeong/) was also built with Codex Astra during the same work session. Event counts there distinguish registrations from Luma's public “Went” labels; the intro-video slot remains pending until Dan provides the recording.
 
 ## License
 
